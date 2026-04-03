@@ -1,0 +1,7 @@
+server:
+  port: 8888
+
+aws:
+  kms:
+    key-arn: arn:aws:kms:ap-northeast-2:356977868164:alias/kms-demo0402
+  region: ap-northeast-2
